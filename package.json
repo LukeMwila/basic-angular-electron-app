@@ -8,7 +8,6 @@
     "build": "ng build",
     "test": "jest",
     "pretty": "prettier --write --tab-width 4 \"src/**/*.js\"",
-    "precommit": "lint-staged",
     "test:coverage": "jest --coverage",
     "lint": "ng lint",
     "electron": "ng build && electron .",
